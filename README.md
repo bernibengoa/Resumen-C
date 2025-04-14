@@ -30,3 +30,5 @@ En C, los tipos de datos definen el tipo de valor que puede almacenar una variab
 int edad = 25;
 float altura = 1.75;
 char letra = 'A';
+
+🔁 2. Control de Flujo
